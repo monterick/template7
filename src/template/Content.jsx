@@ -8,7 +8,7 @@ export default function Content(){
                 DENTAL  CARE
                 </div>
                 
-                    <div style={{textAlign:"center",fontWeight:"bold",backgroundColor:"#0facf1",color:"white",width:"200px",padding:"7px"}} type="button">VIEW ALL SERVICES</div>
+                    <div style={{textAlign:"center",backgroundColor:"#0facf1",color:"white",width:"200px",padding:"7px"}} type="button">VIEW ALL SERVICES</div>
                 
                 <div style={{fontSize:"25px"}}>
                 Changing Lives One Smile At A Time

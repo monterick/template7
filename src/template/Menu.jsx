@@ -1,10 +1,12 @@
 import './Menu.css'
+
 export default function Menu(){
+
     return(
         <div className="menu">
-          <div>
+          <div className="menu-content" >
               <div className="row">
-                  <div  style={{color:"white",fontSize:"25px",textAlign:"right",margin:"10px"}} className="col pointer">
+                  <div style={{color:"white",fontSize:"25px",textAlign:"right",margin:"10px"}} className="col pointer">
                       X
                   </div>
               </div>
@@ -20,6 +22,8 @@ export default function Menu(){
           </div>
         </div>
     );
+
+   
    
 }
 
