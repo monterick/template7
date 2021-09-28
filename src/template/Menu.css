@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    grid-area: menu;
+    background-color: black;
+    margin-right: -250px;
+    opacity: 0.9;
+    
+}
+
+.menu ul li{
+    list-style-type: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.pointer{
+    cursor: pointer;
+}

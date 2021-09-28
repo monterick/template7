@@ -1,11 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import Header  from './template/Header';
+import Menu from './template/Menu';
+import Content from './template/Content';
 
 function App() {
   return (
    
     <div id="app">
-      <h1>Teste</h1>
+      <Menu />
+      <Header />
+      <Content />
     </div>
   );
 }

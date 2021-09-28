@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    grid-area: header;
+    background-color: #0facf1;
+    color: white;
+    vertical-align: middle;
+    align-items: center;
+}
+.textheader{
+    font-size: 25px;
+    margin-left: 80px;
+   
+}
