@@ -1,0 +1,8 @@
+.footer{
+    display: flex;
+    grid-area: footer;
+    background: #111111;
+}
+.blue{
+    color: rgb(43, 43, 255);
+}

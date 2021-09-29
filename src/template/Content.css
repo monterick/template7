@@ -1,9 +1,38 @@
-.content{
-    display: flex;
-    grid-area: content;
-}
+
 .image1{
     background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/6700b267c88654d6adcd2310/Untitled1.jpg");
     background-repeat: no-repeat;
     background-size: 800px 500px;
 }
+.image2{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/6015d97d0dda57f3ad7262e3/Untitled3.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 500px;
+}
+.image3{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/2b0343ba9ef550b48db8e813/e4432bc7ad12231d31bce296184848c8.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+}
+.image4{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/fdd66285f0ef59a6ac45414d/Untitled2.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 150px;
+}
+.image5{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/2cef726ab29158c7a7e11198/21.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 450px;
+}
+.image6{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/1badb080631b587cb5f604b3/s.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 450px;
+}
+.image7{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/1e9f620815815dfdab0777c3/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 450px;
+}
+
+
